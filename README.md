@@ -7,7 +7,7 @@ Description:
 This code predicts the price of precious metals (gold, platinum, and silver) using linear regression.
 The data for the years 2000-2023 is provided in the data.xlsx file.
 
-Usage
+Usage:
 To use the code, first run the import statements at the top of the file. Then, enter the name of the
 precious metal you want to predict the price of in the ip=input() statement. The code will then print
 a dataframe or line chart of the price data for the metal, and it will also predict the price of the
